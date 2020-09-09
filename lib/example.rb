@@ -5,4 +5,4 @@ def say_hello_x_times(x)
 end
 
 say_hello_x_times
-  
+  say_hello_x_times(100)
